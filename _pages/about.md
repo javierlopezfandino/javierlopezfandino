@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor at [Universidade de Santiago de Compostela](https://www.usc.gal/en).
+subtitle: Assistant Professor at Universidade de Santiago de Compostela.
 
 profile:
   align: right
