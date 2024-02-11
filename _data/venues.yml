@@ -4,7 +4,7 @@
 
 "JSTARS":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443
-  color: "#14303e"
+  color: "#0080ff"
 
 "SARTECO":
   url: https://jornadassarteco.org
@@ -41,3 +41,7 @@
 "Thesis":
   url: https://investigacion.usc.gal/documentos/5d1df67e29995204f766db64
   color: "#FF3333"
+
+"IJCNN":
+  url: https://investigacion.usc.gal/documentos/5d1df67e29995204f766db64
+  color: "#ff8080"
