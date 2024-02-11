@@ -22,7 +22,7 @@ nav_order: 6
 - **Description:** Compulsory subject of the second year of the [Bachelor's Degree in Computer Science](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-science-degree).
 - **Details:** Interactive teaching in small groups. 
 
-## [Operative Systems I](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-science-degree/20232024/operating-systems-17632-16883-2-98044)
+## [Operating Systems I](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-science-degree/20232024/operating-systems-17632-16883-2-98044)
 
 - **Course Code:** G4012223
 - **Description:** Compulsory subject of the second year of the [Bachelor's Degree in Computer Science](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-science-degree).
@@ -42,7 +42,7 @@ nav_order: 6
 - **Description:** Basic training subject of the first year of the [Bachelor's Degree in Computer Science](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-science-degree).
 - **Details:** Interactive teaching in small groups. 
 
-## [Operative Systems I](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-science-degree/20232024/operating-systems-17632-16883-2-98044)
+## [Operating Systems I](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-science-degree/20232024/operating-systems-17632-16883-2-98044)
 
 - **Course Code:** G4012223
 - **Description:** Compulsory subject of the second year of the [Bachelor's Degree in Computer Science](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-science-degree).
