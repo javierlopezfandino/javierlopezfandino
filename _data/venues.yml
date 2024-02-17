@@ -38,10 +38,18 @@
   url: https://link.springer.com/journal/10766
   color: "#E5F800"
 
+"IJCNN":
+  url: https://ijcnn.org
+  color: "#ff8080"
+
 "Thesis":
   url: https://investigacion.usc.gal/documentos/5d1df67e29995204f766db64
   color: "#FF3333"
 
-"IJCNN":
-  url: https://investigacion.usc.gal/documentos/5d1df67e29995204f766db64
-  color: "#ff8080"
+"Master":
+  url: https://minerva.usc.es/xmlui/handle/10347/12989
+  color: "#FF3333"
+
+"JOP":
+  url: https://https://link.springer.com/journal/11227
+  color: "#32FF00"
