@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contrato con empresa. Repsol S.A.
-description: Realización de traballos de investigación para o proxecto Heisenberg, MECO, BIOS e Pricing Química: Desenvolvementos para Heisenberg, MECO, BIOS, e Pricing Química.
+description: Realización de traballos de investigación para o proxecto Heisenberg, MECO, BIOS e Pricing Química.
 img: 
 importance: 1
 category: Private
